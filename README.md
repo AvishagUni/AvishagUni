@@ -19,7 +19,7 @@ I'm a passionate and curious third-year Computer Science student, exploring the 
 
 I’m always open to connecting with other tech enthusiasts, collaborating on projects, and learning from others in the field. You can reach out to me here:
 
-- [LinkedIn](www.linkedin.com/in/avishag-minnes-01784030b)
+- [LinkedIn](https://www.linkedin.com/in/avishag-minnes-01784030b/)
 - [Email](mailto:minnesav@gmail.com)
 
 ---
