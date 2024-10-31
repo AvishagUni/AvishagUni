@@ -13,7 +13,7 @@ I'm a passionate and curious third-year Computer Science student, exploring the 
 ## 🔧 Skills & Technologies
 
 - **Languages**: Python, Java, C++, JavaScript, C, SQL
-- **Tools & Frameworks**: Git, Docker, VS Code, Linux
+- **Tools & Frameworks**: Git, VS Code, Linux
 
 ## 🌍 Connect with Me
 
